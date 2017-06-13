@@ -1,0 +1,5 @@
+---
+output_format:
+  type: "string"
+  default: test
+  required: false

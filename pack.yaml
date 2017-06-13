@@ -1,0 +1,9 @@
+---
+ref: testconfigdefault
+name: testconfigdefault
+description: Test repository to demonstrate config default bug
+keywords: 
+    - 
+version: 0.1.0
+author: Nick Maludy
+email: nmaludy@gmail.com

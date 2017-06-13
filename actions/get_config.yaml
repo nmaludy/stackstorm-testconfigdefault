@@ -1,0 +1,10 @@
+---
+description: "Gets the value assigned to 'key' in this pack's config"
+enabled: true
+runner_type: "python-script"
+entry_point: get_config.py
+name: "get_config"
+parameters:
+  key:
+    type: string
+    required: true
