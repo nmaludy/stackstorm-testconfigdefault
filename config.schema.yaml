@@ -1,5 +1,8 @@
 ---
-output_format:
+
+output:
+  description: Output format of cmdlets exected by this pack (json, csv, xml, raw) (global).
   type: "string"
-  default: test
+  default: 'json'
   required: false
+
